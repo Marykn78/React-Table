@@ -1,0 +1,15 @@
+.item_addform{
+    padding:3px;
+    border-radius:10px;
+    background-color: rgba(179, 214, 214, 0.848);
+    text-align: center;
+}
+.id{
+    width:10%;
+}
+.title{
+    width:30%;
+}
+.des{
+    width:50%;
+}

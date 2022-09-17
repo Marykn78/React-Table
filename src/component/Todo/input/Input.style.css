@@ -1,0 +1,16 @@
+.input_form{
+    display: block;
+    border-radius:10px;
+    background-color: rgba(179, 214, 214, 0.326);
+    padding:7px;
+    margin-bottom:10px;
+    width:30%;
+    border: none;
+}
+.lable_form{
+    padding:7px;
+}
+
+.input_form:hover{
+    box-shadow: 0 0 5px rgba(179, 178, 214, 0.663);
+}

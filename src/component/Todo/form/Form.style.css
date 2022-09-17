@@ -1,0 +1,9 @@
+.form_style{
+    margin:15px;
+    border:2px solid rgba(179, 214, 214, 0.716);
+    padding:10px;
+    border-radius:8px;
+    font-family:'Courier New', Courier, monospace;
+    /* display:flex;
+    justify-content: space-between; */
+}
